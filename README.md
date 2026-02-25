@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Rahul-Vasan
-- 👀 I’m interested in building Intelligent systems
-- 🌱 I’m currently pursuing my Masters in Computer Science at NYU
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 Reach me at rs7671@nyu.edu
+👋 Hi, I’m Rahul
+
+Senior Solutions Engineer building enterprise-scale AI systems in production.
+
+🔹 Enterprise AI & Agentic Systems
+🔹 Supply Chain AI & Demand Planning
+🔹 LLM Orchestration (LangGraph, AutoGen, MCP)
+🔹 Snowflake Data Pipelines & Distributed Systems
+
+Currently leading large-scale AI deployments across Fortune 500 enterprises, focused on turning complex business workflows into scalable, production-grade intelligent systems.
 
 <!---
 Rahul-Vasan/Rahul-Vasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
